@@ -23,10 +23,10 @@
   </a>
 </div>
 
-### **SFUND Backend Platform**
-> Laravel • MongoDB • Payment Flow • OTP Validation  
+### **SNEAKYBITES Hidden gem restaurant finder**
+> Laravel • MySQL • Admin, User, Restaurant category 
 <div>
-  <a href="https://github.com/mad9902/sfund-backend">
+  <a href="https://github.com/mad9902/sneakybites">
     <img src="https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -63,7 +63,7 @@
 
 ## 📬 Connect
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-mad9902-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-mad9902-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>mad99.</a>
   <a href="#"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
