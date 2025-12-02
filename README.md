@@ -18,7 +18,7 @@
 ### **MadBot — Multi-System Discord Bot**
 > TCG • Dungeon • Streak • Confession • Music • Economy  
 <div>
-  <a href="https://github.com/mad9902/madbot">
+  <a href="https://github.com/maddd99/madbot">
     <img src="https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 ### **SNEAKYBITES Hidden gem restaurant finder**
 > Laravel • MySQL • Admin, User, Restaurant category 
 <div>
-  <a href="https://github.com/mad9902/sneakybites">
+  <a href="https://github.com/maddd99/sneakybites-new">
     <img src="https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -63,8 +63,8 @@
 
 ## 📬 Connect
 <div align="center">
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-mad9902-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>mad99.</a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-mad99.-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anis.assegaf2002@gmail.com"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
