@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
   <img src="https://cdn.pfps.gg/pfps/2178-robin-16.png" width="110" alt="logo"/>
-  <h1>mad9902</h1>
+  <h1>maddd99</h1>
   <p><b>Building systems. Breaking limits.</b></p>
 </div>
 
@@ -42,10 +42,10 @@
 <div align="center">
 
   <!-- Streak Stats (STABLE PROVIDER) -->
-  <img src="https://streak-stats.demolab.com?user=mad9902&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=maddd99&theme=tokyonight&hide_border=true" height="170"/>
 
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mad9902&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddd99&theme=tokyonight" height="170"/>
 
 </div>
 
